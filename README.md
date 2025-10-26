@@ -1,5 +1,5 @@
 # Education Performance Intelligence
-## View Interactive Dashboard Here:https://lnkd.in/dbVfgq2G
+## View Interactive Dashboard Here: https://lnkd.in/dbVfgq2G
 
 **Focus:** Student Achievement | Teacher Impact | Assessment Trends  
 **Tools Used:** Power BI | Data Modeling | Interactive Dashboards
